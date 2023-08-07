@@ -53,7 +53,7 @@ const App = () => {
     </div>
     // <div>
     //   <input type="text" value={searchWord} onChange={handleSearch} placeholder="Search Photos" />
-    //   {data && data.results.map((photo) => (
+    //   {data && data.results.map((photo) npm => (
     //     <img key={photo.id} src={photo.urls.small} alt={photo.alt_description} />
     //   ))}
     // </div>
